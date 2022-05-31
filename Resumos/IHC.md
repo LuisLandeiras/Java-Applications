@@ -1,15 +1,20 @@
+# Principios Fundamentais
+- Útil => eficaz: cumpre os objetivos;
+- Utilizável => eficiente: fácil, intuitivo, seguro;
+- Utilizado => atrativo: agradável e recompensador. 
+
 # Olho Humano
 - A luz recebida é transformada em sinais eletricos;
 - A luz emitada é refletida pelos objetos;
 - A retina foca as imagens de cima para baixo;
 - A retina contem dois tipos de fotorecetores: <br>
-Bastonetes - sensibilidade luminosa; <br>
+Bastonetes - sensibilidade luminosa; visão periferica; <br>
 Cones - visão cromática.
-- Os ganglions são celulas que detetão padrões e movimentos.
+- Os ganglions são celulas que detetam padrões e movimentos.
 
 # Ouvido Humano
 O ouvido humano é muitas vezes visto como sensor secundário, mas... <br>
-- Há muitas mais informação a entrar do que a ser considerada;
+- Há muita mais informação a entrar do que a ser considerada;
 - A pinna atua como um funil para que o som entre no ouvido;
 - Nós somos capazes de estimar distâncias, devido ao atraso entre a receção do som entre as dois ouvidos.
 
@@ -20,7 +25,7 @@ O ouvido humano é muitas vezes visto como sensor secundário, mas... <br>
 
 ## Som
 - Tom: frequência(Hz);
-- Voluma: amplitude(dB);
+- Volume: amplitude(dB);
 - Timbre: tipo e qualidade.
 
 ## Processamento do som
@@ -32,7 +37,7 @@ O ouvido humano é muitas vezes visto como sensor secundário, mas... <br>
 
 # Toque
 - Estimulado atravez de recetores localizados na pele: <br>
-Meccano-recetores(Pressão); <br>
+Mecano-recetores(Pressão); <br>
 Termo-recetores(Calor); <br>
 Nocio-recetores(Dor ou pressão intensa).
 - Sensibiliade heterogenia:
@@ -49,7 +54,7 @@ Tempo de ação.
 tempo de reação + tempo de movimento.
 - Tempo de reação o quão rápido um organismo consegue responder a um estimulo particular.
 - Dependendo do tipo de estimulo: <br>
-<strong>Dor(700ms) > Visual(200ms) > Adição(150ms).</strong>
+<strong>Dor(700ms) > Visual(200ms) > Audição(150ms).</strong>
 
 # Memória Humana
 
@@ -65,7 +70,7 @@ A memória sensorial passa para memoria de curto-prazo a partir do canal de aten
 ## Memória sensorial
 - Memória icônica: estimulo visual;
 - Memória ecóica: estimulo auditivo;
-- Memória háptico: estimulo tatil.
+- Memória háptica: estimulo tatil.
 - Estes buffers estão constantemente a ser reescritos.
 
 ## Memória a curto-prazo
@@ -75,13 +80,16 @@ Rápido esquecimento 200ms;  <br>
 Capacidade limitada de 7 +- 2 chunks.
 - <strong>Chuncking: aumenta a eficiência do uso da memória;</strong>
 - Chunking leva ao Closure;
-- A falha na closure leva o utilizador a perder localização mental, levando a que que ele cometa falhas.
+- A falha na closure leva o utilizador a perder localização mental, levando a que ele cometa falhas.
 
 ## Memória a longo-prazo
 Existem dois tipos:
 - Episódica: memoriza sequencias de eventos;
 - Semântica: memoriza estrutua de factos, conceito. Nós conseguimos pensar num gráfico modelo, como também em classes com atributos e conexões.
 - Semântica deriva da Episódica.
+
+### Lei de Jost
+Se duas memórias são igualmente fortes, a mais antiga predura 
 
 # Resolução do problema(Problem Solving)
 Processo de encontrar a solução para uma tarefa diferente usando o conhecimento. <br>
@@ -91,8 +99,8 @@ Reprodutivo + tentativa erro.
 - Gestalt(não comportamentalista): <br>
 Resolução do problema ambos produtivo e reprodutivo; <br>
 Produtivo desenha á vista e retrutura o problema; <br>
-Atrativo mas não ha evidencias suficiente para explicar á vista o que é <br>
-Afasta-se do comportamentalismo e vai em diração a teorias de processamento de informação.
+Atrativo mas não há evidências suficiente para explicar á vista o que é; <br>
+Afasta-se do comportamentalismo e vai em direção a teorias de processamento de informação.
 
 ## Teoria do problema de espaço
 - O problema do espaço compreende o problema de estados;
@@ -114,13 +122,13 @@ Causa: Entendeu mal o que era suposto fazer.
 
 # Emoções Humanas
 - A resposta biologica para um estimulo fisico é chamado de afeto, que leva a uma interpretação como uma emoção;
-- Afeto influencia como nós respondemos a uma situação: <br>
+- Afeto influência como nós respondemos a uma situação: <br>
 positivo: uma resolução de problema creativa; <br>
-nagativo: Pensar demais.
-- IMplicações de um design de interface: <br>
+negativo: Pensar demais.
+- Implicações de um design de interface: <br>
 Stress aumenta o nivel de dificuldade do problema; <br>
 Utilizador relaxado será tolerante com deficiências no design; <br>
-Uma interfaco estiticamente bonita e recompensadora aumentará os aspetos positivos.
+Uma interface esteticamente bonita e recompensadora aumentará os aspetos positivos.
 
 # Office Interface vs Industrial Interface
 
@@ -145,7 +153,7 @@ Industrial tem uma manipulação indireta, pois interage com o mundo real atrave
 - Balanciamento: Distribuição de elemtnos de um forma simetrica ou asimetrica;
 - Dominio: Quando uma cor domina por vezes pode unificar partes em conflito, formando assim um contexto.
 
-# Pricipio para suportar a usabilidade(Principles to support usability)
+# Principios para suportar a usabilidade(Principles to support usability)
 - Learnability(Aprendizagem): A facilidade com que novos usuários podem iniciar uma interação efetiva e alcançar o máximo desempenho;
 - Flexibility(Flexibilidade): A multiplicidade de maneiras pelas quais o usuário e o sistema trocam em formação;
 - Robustnes(Robustez): O nível de suporte fornecido ao usuário para garantir o sucesso realização e avaliação do comportamento direcionado a metas;
@@ -154,7 +162,7 @@ Industrial tem uma manipulação indireta, pois interage com o mundo real atrave
 - Predictability(Previsão): efeito determinante de ações futuras com base em histórico de interações anteriores;
 - Synthesizability(Sintetização): avaliar o efeito de ações passadas;
 - Familiarity(Familiaridade): como o conhecimento prévio se aplica ao novo sistema;
-- Ganeralizability(Generalização): estendendo o conhecimento específico de interação para novos situações;
+- Generalizability(Generalização): estendendo o conhecimento específico de interação para novos situações;
 - Consistency(Consistência): semelhança no comportamento de entrada/saída decorrente de situações ou objetivos da tarefa;
 
 # Principios de flexibilidade(Priciples of flexibility)
@@ -164,7 +172,7 @@ Industrial tem uma manipulação indireta, pois interage com o mundo real atrave
 - Substitutivity(Equivalência): permitindo que valores equivalentes de entrada e saída sejam substituídos um pelo outro;
 - Customizability(Parametrização): O usuário modifica/parametriza o sistema(adaptabilidade);O sistema se ajusta automaticamente(adaptabilidade).
 
-# Principio de robustez (Priciples of robustness)
+# Principios de robustez (Priciples of robustness)
 - Observability: capacidade do usuário para avaliar o
 estado interno do sistema a partir de sua representação perceptível;
 - Recoverability: capacidade do usuário de tomar medidas corretivas
@@ -178,7 +186,7 @@ Define:
 - Usability(Usabilidade);
 - Efficiency(Eficiência);
 - Satisfaction(Satisfação);
-- Effectiveness(Efetividade).
+- Effectiveness(Eficácia).
 
 # Nielsen 10 Heuristics
 - Visibilidade dos status do sistema;
@@ -245,7 +253,7 @@ Framework geral para compreender a interação:
 - Oferecer prevenção de erros e simples manipulação de erros;
 - Permitir reverter ações facilmente;
 - Suporte locus de controle interno;
-- Reduza a carga de memória de curto prazo.l
+- Reduza a carga de memória de curto prazo.
 
 # Modelos cognitivos 
 - GOMS
@@ -254,3 +262,6 @@ Framework geral para compreender a interação:
 
 # Tecnica do mágico de OZ 
 Tecnica usada para simular funcionalidades inexistentes num produto, sendo assim desnecessário haver a criação do produto para saber a sua utilidade e eficiência.
+
+# Regras de Design
+<img src="img3.png">
