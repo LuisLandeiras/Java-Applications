@@ -111,11 +111,11 @@ Afasta-se do comportamentalismo e vai em direção a teorias de processamento de
 
 # Erro Humano
 Tipos de erro:
-- Deslizes/Falhas: <br>
+- Deslizes/Falhas(Slip): <br>
 Intenção correta, mas falha ao tentar fazer; <br>
 Causas: pouca atenção, pouca skill para o fazer; <br>
 Aspeto parecido a algo conhecido mas com uma funcionalidade diferente.
-- Enganos: <br>
+- Enganos(Mistakes): <br>
 Intenção incorreta; <br>
 Causa: Entendeu mal o que era suposto fazer.
 - O ser Humano cria modelos mentais para explicar comportamentos, se estiver errado erros podem ocorrer.
@@ -265,3 +265,15 @@ Tecnica usada para simular funcionalidades inexistentes num produto, sendo assim
 
 # Regras de Design
 <img src="img3.png">
+
+## Web Desing Errors
+- Má forma de navegar;
+- usar ficheiros pdf para leitura online;
+- Não mudar a cor dos links já vistos;
+- Tamanho de letra fixo;
+- Páginas com uma barra de pesquisa muito pequena;
+- Qualquer coisa que pareça uma publicidade;
+- Violar regras de desing convencional;
+- Abrir novos sepadores no browser;
+- Não responder a questões dos usuarios;
+- Texto não escaneável.
